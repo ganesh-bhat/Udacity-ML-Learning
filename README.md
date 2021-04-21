@@ -1,2 +1,2 @@
 # Udacity-ML-Learning
-Udacity ML learning code snippets and notes
+Udacity Machine Learning course projects, course work, code snippets and notes
